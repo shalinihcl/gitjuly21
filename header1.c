@@ -4,8 +4,3 @@ void fun1()
 {
 printf("It is fun1");
 }
-
-void fun2()
-{
-	printf("It is fun2");
-}
